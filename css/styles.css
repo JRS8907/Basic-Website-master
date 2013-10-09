@@ -1,0 +1,22 @@
+/* Main Navigation*/
+
+li {
+  background: orange;
+  height: 50px;
+  list-style: none;
+  width: 100px;
+  display: inline;
+  text-align: center;
+  padding: 10px 20px;
+}
+
+a {
+  color: black;
+  font-size: 24px; 
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+li:hover {
+  background: red;
+}
